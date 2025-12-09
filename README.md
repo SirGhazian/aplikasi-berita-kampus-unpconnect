@@ -1,6 +1,15 @@
-# UNP Connect
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/5e8e7a00-fb0d-4f77-b3b5-35b25f44d6fc">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/bd3ab72c-a642-49b1-82c2-9f9e661f0bfa">
+  <img alt="Header" height="80" >
+</picture>
+</div>
 
-**UNP Connect** adalah aplikasi mobile berbasis Flutter yang dirancang sebagai platform berita dan sosial untuk Universitas Negeri Padang. Aplikasi ini memungkinkan mahasiswa, dosen, dan staf untuk berbagi informasi, berita kampus, dan artikel mahasiswa, serta berinteraksi melalui sistem follow.
+<img src="https://github.com/user-attachments/assets/d37a62f7-650a-4886-81c9-d3809d3ddeed" width="100%" height="2px"/>
+<p/>
+
+**UNP Connect** adalah aplikasi mobile berbasis Flutter yang dirancang sebagai platform berita dan sosial untuk Universitas Negeri Padang. Aplikasi ini memungkinkan mahasiswa, dosen, dan admin untuk berbagi informasi, berita kampus, dan artikel mahasiswa, serta berinteraksi melalui sistem follow.
 
 ## 📱 Fitur Utama
 
@@ -13,14 +22,13 @@
     -   Melihat profil pengguna lain.
     -   Follow/Unfollow pengguna.
     -   Melihat daftar Followers dan Following.
--   **Unified Search**: Pencarian terintegrasi untuk menemukan artikel kampus dan mahasiswa sekaligus.
 -   **Manajemen Profil**: Edit foto profil, ubah informasi pribadi.
 -   **Admin Dashboard**: Statistik pengguna dan postingan (khusus role Admin).
 
 ## 🛠️ Tech Stack
 
 -   **Frontend**: Flutter (Dart)
--   **Backend**: Firebase (Firestore Database, Authentication)
+-   **Backend**: Firebase (Firestore Database)
 -   **Storage**: Cloudinary (Image Storage)
 -   **State Management**: `setState` & `StreamBuilder` (Architecture Simplicity)
 
@@ -126,4 +134,4 @@ Aplikasi ini menggunakan Cloud Firestore dengan struktur koleksi dan dokumen seb
 
 ---
 
-Dibuat dalam rangka pemenuhan Tugas Akhir Mata Kuliah Interaksi Manusia Komputer Universitas Negeri Padang.
+Dibuat dalam rangka pemenuhan tugas akhir mata kuliah Interaksi Manusia Komputer Universitas Negeri Padang.
