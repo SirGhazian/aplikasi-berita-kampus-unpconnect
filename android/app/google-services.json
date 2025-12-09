@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1086866515380",
+    "project_id": "unp-connect",
+    "storage_bucket": "unp-connect.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086866515380:android:ad0be62239bfdb5d11fee1",
+        "android_client_info": {
+          "package_name": "com.example.unp_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrRiqErOZ-6_OA0Z9JwkoEt1rRB3iPTIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
